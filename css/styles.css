@@ -53,6 +53,7 @@ body{
 
 .carousel-item{
 	height: 300px;
+	align-items: center;
 
 }
 
